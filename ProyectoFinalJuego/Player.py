@@ -1,4 +1,5 @@
 import  pygame
+
 class Player:
     def __init__(self):
         #Creacion de la nave o jugador con una imagen
