@@ -1,4 +1,5 @@
 import pygame
+
 class screen:
     def __init__(self
         #Creacion del tamaño, Titulo, Icono y el fondo de patalla para el juego 
