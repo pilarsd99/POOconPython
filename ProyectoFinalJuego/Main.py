@@ -4,6 +4,7 @@ import sys
 from Player import Player #Clase de jugador
 from Screen import screen #Clase de la pantalla
 from Meteor import Meteor # Clase del meteoro
+
 pygame.init()
 #Crea la ventana, el jugador y a los meteritos 
 ventana=screen()
