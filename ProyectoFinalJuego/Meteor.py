@@ -15,8 +15,8 @@ class Meteor:
                         pygame.image.load('img/nature1.png'),
                         pygame.image.load('img/pet.png'),
                         pygame.image.load('img/starwars.png')]
-       '''Creacion de las listas para la posicion x e y. 
-       La velocidad sera igual una lista para que haya distitas velocidades '''
+       #Creacion de las listas para la posicion x e y. 
+       #La velocidad sera igual una lista para que haya distitas velocidades 
         self.posx=[]
         self.posy=[]
         self.vel = []
