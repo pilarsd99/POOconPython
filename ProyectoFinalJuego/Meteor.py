@@ -1,5 +1,7 @@
 import  pygame
 import random # importamos esta libreria random para crear las posiciones de los meteoros
+
+
 class Meteor:
     def __init__(self):
         #Lista de las imagenes de los Meteoros 
